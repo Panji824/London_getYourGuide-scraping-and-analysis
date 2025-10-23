@@ -33,7 +33,7 @@ The pipeline was designed to handle dynamic content and ensure data integrity th
 
 | Insight Category | Key Observation | Strategic Value |
 | :--- | :--- | :--- |
-| **Value Sweet Spot** | The highest average ratings and volume are concentrated in the **Mid-Range Segment ($\text{Rp}\ 500\text{K} - \text{Rp}\ 2\text{M}$)**. | This segment offers the optimal balance of quality and affordability. |
+| **Value Sweet Spot** | The Full-Day and High-Price (1M–5M) segments | This segment offers the optimal balance of quality and affordability. |
 | **Quality Gap** | **Certified Tours** showed significantly less variance in customer ratings (narrower Box Plot range) than non-certified tours. | The certification label effectively reduces customer risk, ensuring quality consistency. |
 | **Efficiency/Fatigue** | Customer satisfaction decreases for tours exceeding **10 hours**, indicating a *customer fatigue point*. | Optimal tour design should target durations under 10 hours for maximum satisfaction. |
 
@@ -43,10 +43,10 @@ The pipeline was designed to handle dynamic content and ensure data integrity th
 
 | Tool Category | Tools Used |
 | :--- | :--- |
-| **Core Languages** | Python, M (Power Query) |
+| **Core Languages** | Python |
 | **Acquisition** | Selenium, BeautifulSoup |
 | **Data Analysis** | Pandas, NumPy |
-| **Visualization** | Seaborn, Matplotlib, **Power BI** |
+| **Visualization** | Seaborn, Matplotlib|
 
 **Files:**
 
