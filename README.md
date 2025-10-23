@@ -1,6 +1,3 @@
-Tentu, berikut adalah format **README.md** yang profesional dan rapi, disesuaikan dengan alur proyek *Data Engineering* Anda (web scraping, cleansing, dan analisis Power BI).
-
----
 
 ## README: London Tourism Value Analysis (GetYourGuide Data)
 
