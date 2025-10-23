@@ -48,8 +48,4 @@ The pipeline was designed to handle dynamic content and ensure data integrity th
 | **Data Analysis** | Pandas, NumPy |
 | **Visualization** | Seaborn, Matplotlib|
 
-**Files:**
 
-* `[Nama File Notebook].ipynb`: Full Python script for scraping and initial feature engineering.
-* `london_data_final.csv`: The final, cleaned dataset ready for analysis.
-* `[Nama File Presentasi].pptx`: Project slides and visualization results. 
